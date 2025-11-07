@@ -1,6 +1,5 @@
-# THREE_JS Projects
-
-
+# Three JS
+Projects that I've worked on in order to gain a better understanding of the THREE JS library
 
 ### Examples
 
